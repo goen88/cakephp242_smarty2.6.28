@@ -1,6 +1,14 @@
-CakePHP
+CakePHP2.4.2+Smarty2.6.8 集成
 =======
 
+Member
+----------------
+Author: gaorunqiao <[gaorq88@gamil.com](mailto:gaorq88@gamil.com) or [goen88@163.com](mailto:goen88@163.com)>
+Date: 12/04/2013
+
+
+About CakePHP Framework
+----------------
 [![CakePHP](http://cakephp.org/img/cake-logo.png)](http://www.cakephp.org)
 
 CakePHP is a rapid development framework for PHP which uses commonly known design patterns like Active Record, Association Data Mapping, Front Controller and MVC.
