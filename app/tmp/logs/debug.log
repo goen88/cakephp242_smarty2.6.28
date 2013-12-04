@@ -1,0 +1,18 @@
+2013-12-04 18:05:55 Notice: Notice (8): Undefined offset: 0 in [/Library/WebServer/cakephp242/app/Controller/UserController.php, line 51]
+Trace:
+UserController::go() - APP/Controller/UserController.php, line 51
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 119
+
+2013-12-04 18:05:57 Notice: Notice (8): Undefined offset: 0 in [/Library/WebServer/cakephp242/app/Controller/UserController.php, line 51]
+Trace:
+UserController::go() - APP/Controller/UserController.php, line 51
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 119
+
