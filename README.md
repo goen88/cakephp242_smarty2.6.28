@@ -4,6 +4,7 @@ CakePHP2.4.2+Smarty2.6.8 集成
 Member
 ----------------
 Author: gaorunqiao <[gaorq88@gamil.com](mailto:gaorq88@gamil.com) or [goen88@163.com](mailto:goen88@163.com)>
+
 Date: 12/04/2013
 
 
