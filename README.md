@@ -1,4 +1,4 @@
-CakePHP2.4.2+Smarty2.6.8 集成
+CakePHP2.4.2+Smarty2.6.28 集成
 =======
 
 Member
